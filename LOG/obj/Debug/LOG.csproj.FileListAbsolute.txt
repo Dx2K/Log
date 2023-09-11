@@ -1,0 +1,7 @@
+C:\Source\LOG\LOG\LOG\obj\Debug\LOG.csprojResolveAssemblyReference.cache
+C:\Source\LOG\LOG\LOG\bin\Debug\LOG.dll.config
+C:\Source\LOG\LOG\LOG\bin\Debug\LOG.dll
+C:\Source\LOG\LOG\LOG\bin\Debug\LOG.pdb
+C:\Source\LOG\LOG\LOG\obj\Debug\LOG.dll
+C:\Source\LOG\LOG\LOG\obj\Debug\LOG.pdb
+C:\Source\LOG\LOG\LOG\bin\Debug\LOG.XML
